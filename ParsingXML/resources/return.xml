@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <watchmouse version="8.3.0.9-3-gcc6e759/8.3.0.9-3-gcc6e759">
+<code>0</code>
+<info>stats found</info>
+<tz>Europe/Brussels</tz>
+<gmtoffset>2</gmtoffset>
+<elapsed>2619.1552</elapsed>
+<result>
+<stats>
+ <stat>
+<name />
+<rid />
+<active />
+<consecutive_errors />
+<timewarn />
+<timepoor />
+<probes>55206</probes>
+<probe_errors>3400</probe_errors>
+<checks>53882</checks>
+<check_errors>2075</check_errors>
+<uptime>96.1490</uptime>
+<ttime>1154.8046</ttime>
+<ctime>334.0644</ctime>
+<ptime>353.9192</ptime>
+<dtime>660.5845</dtime>
+<dsize>74932</dsize>
+<sla_warn />
+<sla_poor />
+ </stat>
+</stats>
+</result>
+ </watchmouse>
